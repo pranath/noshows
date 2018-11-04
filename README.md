@@ -1,4 +1,4 @@
-# noshows
+# No Shows
 Data analysis - Investigate reasons for no-shows at doctors appointments
 
 This analysis investigates a dataset of around 100k medical appointments from Brazil, looking primarily at if patients show up for appointments or not aka 'No-shows', and the possible reasons why. 
